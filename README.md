@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Frontend Developer Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Frontend Developer Coding GIF" />
 
 # 👋 Hey, I'm **Alex Rivera**
 ### ⚡ Frontend Engineer · UI Architect · Open Source Enthusiast
